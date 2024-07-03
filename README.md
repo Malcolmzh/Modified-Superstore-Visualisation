@@ -16,4 +16,4 @@ It contains 51 thousand rows and 24 columns, most of which are modified.
     * Positive correlation: Higher sales figures of accessories, copiers, and phones tend to have higher profits.
  
 ## Data Visualisation
-* The dataset is visualised in Tableau, you may take a look [here](https://public.tableau.com/app/profile/malcolm.teo/viz/Superstore_Visualisation_17199777020180/ProfitDashboard#1)
+* The dataset is visualised in Tableau, you may take a look [here].(https://public.tableau.com/app/profile/malcolm.teo/viz/Superstore_Visualisation_17199777020180/ProfitDashboard#1)
